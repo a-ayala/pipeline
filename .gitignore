@@ -1,0 +1,9 @@
+# tests
+.phpunit.result.cache
+
+# composer
+vendor
+composer.lock
+
+# ide
+.idea

@@ -1,0 +1,24 @@
+{
+    "name": "ayala/pipeline",
+    "autoload": {
+        "psr-4": {
+            "Ayala\\Pipeline\\": "src/",
+            "Consumer\\": "consumer/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a-ayala",
+            "email": "aidanayala.web@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "phpunit/phpunit": "^9.5"
+    }
+}
