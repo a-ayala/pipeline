@@ -2,7 +2,7 @@
 
 namespace Ayala\Pipeline;
 
-final class Pipeline implements PipelineInterface
+class Pipeline implements PipelineInterface
 {
     /** @var callable[] */
     private array $phases;

@@ -7,3 +7,6 @@ composer.lock
 
 # ide
 .idea
+
+# consumer
+consumer
